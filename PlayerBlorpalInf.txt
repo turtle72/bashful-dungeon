@@ -1,0 +1,1 @@
+{'level': 1, 'inv': [''], 'curses': [''], 'exp': 0, 'x': 2, 'y': 2, 'floor': 0, 'room': 0, 'HealthMax': 1, 'healthCurrent': 1, 'Dead': False, 'Speed': 1}
