@@ -9,6 +9,7 @@ from weapon import weapon
 import time
 from monster import mnster, dice
 os.system('clear')
+print('test')
 chars = '_@*'
 noMon = True
 startchar = 3
